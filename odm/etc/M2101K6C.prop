@@ -1,0 +1,2 @@
+# add cert for K6 CN,marketname:sweet
+ro.product.odm.cert=M2101K6C
